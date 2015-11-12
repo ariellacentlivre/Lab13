@@ -1,0 +1,27 @@
+body{
+	background: url(images/reddit-logo.jpg) repeat;	
+}
+
+#logo{
+	height: 100px;
+	width: 200px;
+}
+
+.maincontainer {
+	margin:20px;
+	background-color: rgba(225,225,225,.9);
+	padding: 10px;
+	font-family: arial;
+	text-align: center;
+}
+
+.maincontainer h1:hover{
+	background-color:lightblue;
+}
+
+.maincontainer h2{
+	font-size: 40px;
+	font-family: arial;
+}
+
+
